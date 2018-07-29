@@ -1,0 +1,32 @@
+/*selector{
+	property:value;
+}*/
+body
+{
+	background-image: url(b1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Great Vibes', cursive;
+	font-family: 'Cookie', cursive;
+	font-size: 170%;
+	color: black;
+
+}
+
+.first{
+
+	border-bottom: 0.5px solid black;
+	width: 500px;
+	text-align: center;
+	
+}
+.alone
+{
+	color: #08090A;
+}
+
+span
+{
+	font-size: 3rem;
+}
+
